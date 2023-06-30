@@ -10,7 +10,7 @@
             img-alt="Card image"
             img-left
             class="mb-3"
-            style="width: 60%; height: 60%; fluid "
+            style="width: 65%; height: 65%; fluid "
           />
         </b-col>
         <b-col>
